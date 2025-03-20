@@ -48,4 +48,4 @@ if st.button("Obtener respuesta"):
 
 # Pie de página opcional
 st.write("---")
-st.write("Esta aplicación web está impulsada por el modelo GPT de OpenAI y la progra cochina de Mike.")
+st.write("Un App de prueba conectando al API de OpenAI .")
